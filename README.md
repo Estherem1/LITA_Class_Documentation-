@@ -30,8 +30,9 @@ The primary source of Data used here is Data Sale.csv and this is an open source
   2. For Analysis
   3. For Data Visualisation
      
-- SQL - Structured Query Language for Querying of Data
+- SQL - Structured Query Language for Querying of Data[Download Here](https://onedrive.live.com/?id=1F89A3757645C55D%21122&cid=1F89A3757645C55D)
 - Github for Portfolio Building
+- PowerBI
 ---
 ### Data Cleaning and Preparations
 In the initial phase of the Data Cleaning and prepations, we perform the following action;
