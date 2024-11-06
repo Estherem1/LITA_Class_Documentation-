@@ -32,7 +32,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
      
 - SQL - Structured Query Language for Querying of Data[Download Here](https://onedrive.live.com/?id=1F89A3757645C55D%21122&cid=1F89A3757645C55D)
 - Github for Portfolio Building
-- PowerBI
+- PowerBI[Download Here](https://onedrive.live.com/?id=1F89A3757645C55D%21125&cid=1F89A3757645C55D)
 ---
 ### Data Cleaning and Preparations
 In the initial phase of the Data Cleaning and prepations, we perform the following action;
