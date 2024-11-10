@@ -69,4 +69,4 @@ WHERE CONDITION = TRUE
 
 ![Powerbi](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Powerbi%20pix%201a.png)
 
-![Powerbi]()
+![Powerbi](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/PBI%20PIX1.png)
