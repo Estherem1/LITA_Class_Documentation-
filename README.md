@@ -53,6 +53,7 @@ This is where we include some basics lines of code or queries or even some of th
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%201.png)
 ---
 ### Data Visualization
 
