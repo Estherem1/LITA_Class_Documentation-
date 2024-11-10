@@ -161,7 +161,7 @@ This is where we include some basics lines of code or queries or even some of th
 
 ![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%205.png)
 
-![]()
+![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%206.png)
 ---
 ### Data Visualization
 
