@@ -58,4 +58,4 @@ WHERE CONDITION = TRUE
 
 ![Excel](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Excel%20pix%201.png)
 
-![Excel]
+![Excel](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Excel%20pix2.png)
