@@ -44,7 +44,7 @@ In the initial phase of the Data Cleaning and prepations, we perform the followi
 EDA involved the exploring of the Data to answer some questions about the Data such as;
 - What is the overall sales trend
 - Which product are top sellers
-- Waht are the products on peak sales?
+- What are the products on peak sales?
 ---
 ### Data Analysis
 This is where we include some basics lines of code or queries or even some of the DAX expressions used during your analysis;
@@ -66,3 +66,7 @@ WHERE CONDITION = TRUE
 ![Excel](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Excel%20pix%201.png)
 
 ![Excel](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Excel%20pix2.png)
+
+![Powerbi]()
+
+![Powerbi]()
