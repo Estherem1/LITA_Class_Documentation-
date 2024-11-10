@@ -177,28 +177,6 @@ This is where we include some basics lines of code or queries or even some of th
 
 ### Summary
 
-1. Overall Customer Subscription Trends:
-- High Sales Periods: February and July stand out with notably high sales numbers (546,300 and 274,800 respectively).
-- Low Sales Periods: April, September, and December show significantly lower sales (46,865, 34,720, and 49,300, respectively).
-- Mid-Year Stability: June and August have relatively high and stable sales figures (247,600 and 204,180).
-- Fluctuations: There is no steady upward or downward trend throughout the year; instead, the sales fluctuate each month with some peaks and dips.
-Overall, the pattern seems to show irregular spikes, with certain months like February and July experiencing substantial increases
-2. Top-Performing Products: 
-- The total sales amount is consistent across both product and regional summaries, totaling 2,101,090.
-- There is a clear disparity in demand across products and regions, suggesting that Shoes and Shirts are most popular, and the South region is the strongest market.
-- Targeting promotions for lower-selling products like Jackets and Socks, especially in lower-performing regions like the West, may help balance sales distribution.
-This high-level analysis suggests potential growth areas by focusing on underperforming products and regions
-3. Seasonal Patterns: 
-- Winter Products (e.g., Gloves, Hats, Jackets):
-  Sales for products like Gloves, Hats, and Jackets may peak during colder months, such as fall and winter.
-  These items are typically in higher demand during colder seasons, especially in regions that experience significant seasonal variation.
-  Since Jackets and Gloves have relatively lower sales in this table, it could indicate that this data might represent an off-season period or a generally warmer climate      region.
-- All-Season or Summer Products (e.g., Shirts, Shoes, Socks):
-  Products like Shirts, Shoes, and Socks are generally not as season-specific and may have consistent sales throughout the year.
-  Shoes have the highest sales, which could suggest either consistent demand or potentially stronger sales during warmer months if the product type includes summer or     
-  casual footwear.
-- Possible Seasonal Patterns Based on Regional Sales:
-  South Region: With the highest sales total (927,820), the South may experience more stable, year-round demand, potentially due to warmer weather that favors consistent      use of items like Shirts and Shoes.
-  East and North Regions: Sales in the East and North regions might show seasonal variation if they experience significant weather changes, especially if the data reflects    a period outside winter
+1.
 
 ## Recommendations
