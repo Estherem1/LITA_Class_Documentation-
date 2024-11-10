@@ -180,3 +180,5 @@ This is where we include some basics lines of code or queries or even some of th
 1.
 
 ## Recommendations
+
+1.
