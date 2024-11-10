@@ -57,3 +57,5 @@ WHERE CONDITION = TRUE
 ### Data Visualization
 
 ![Excel](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Excel%20pix%201.png)
+
+![Excel]
