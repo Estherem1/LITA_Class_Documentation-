@@ -157,13 +157,11 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ### Data Analysis
 This is where we include some basics lines of code or queries or even some of the DAX expressions used during your analysis;
 ```
-![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%201.png)
+![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%204.png)
 
 ![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%202.png)
 
 ![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%203a.png)
-
-![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%203b.png)
 ---
 ### Data Visualization
 
