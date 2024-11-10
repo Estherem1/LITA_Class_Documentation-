@@ -150,9 +150,9 @@ In the initial phase of the Data Cleaning and prepations, we perform the followi
 ---
 ### Exploratory Data Analysis
 EDA involved the exploring of the Data to answer some questions about the Data such as;
-- What is the overall sales trend
-- Which product are top sellers
-- What are the products on peak sales?
+- What is the popular subscription type by the number of customers
+- Find customers who canceled their subscription within 6 months
+- calculate the average subscription duration for all customers?
 ---
 ### Data Analysis
 This is where we include some basics lines of code or queries or even some of the DAX expressions used during your analysis;
@@ -173,13 +173,13 @@ This is where we include some basics lines of code or queries or even some of th
 
 ![Powerbi](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Powerbi%20pix%202a.png)
 
-![Powerbi]()
+![Powerbi](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/PBI%20PXI%202.png)
 ---
-### Final Report: Sales Data Analysis
+### Final Report: Customers Data Analysis
 
 ### Summary
 
-1. Overall Sales Trends:
+1. Overall Customer Subscription Trends:
 - High Sales Periods: February and July stand out with notably high sales numbers (546,300 and 274,800 respectively).
 - Low Sales Periods: April, September, and December show significantly lower sales (46,865, 34,720, and 49,300, respectively).
 - Mid-Year Stability: June and August have relatively high and stable sales figures (247,600 and 204,180).
