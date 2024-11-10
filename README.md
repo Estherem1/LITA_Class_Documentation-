@@ -59,7 +59,7 @@ WHERE CONDITION = TRUE
 
 ![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%203a.png)
 
-![]()
+![](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Sql%20pix%203b.png)
 ---
 ### Data Visualization
 
