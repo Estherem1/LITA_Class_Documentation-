@@ -171,9 +171,9 @@ This is where we include some basics lines of code or queries or even some of th
 
 ![Excel](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Excel%20pix%204.png)
 
-![Powerbi](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Powerbi%20pix%201a.png)
+![Powerbi](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Powerbi%20pix%202a.png)
 
-![Powerbi](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/PBI%20PIX1.png)
+![Powerbi]()
 ---
 ### Final Report: Sales Data Analysis
 
