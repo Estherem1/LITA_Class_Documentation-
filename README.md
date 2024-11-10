@@ -167,7 +167,7 @@ This is where we include some basics lines of code or queries or even some of th
 ---
 ### Data Visualization
 
-![Excel](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Excel%20pix%201.png)
+![Excel](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Excel%20pix%203.png)
 
 ![Excel](https://github.com/Estherem1/LITA_Class_Documentation-/blob/main/Excel%20pix2.png)
 
