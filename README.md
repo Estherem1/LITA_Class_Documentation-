@@ -177,8 +177,18 @@ This is where we include some basics lines of code or queries or even some of th
 
 ### Summary
 
-1.
-
+1.  The "Basic" subscription are the most popular and generates the most revenue at $33.78 million, nearly half of the total revenue and also has the highest customer count (16,921), followed by "Premium" (8,446) and "Standard" (8,420)
+2.  Regionally, the East has the highest number of customers in the "Basic" subscription category, while the distribution of "Premium" and "Standard" subscriptions is more balanced
+3.  Out of 33,787 customers, 18,612 are still active (not canceled), while 15,175 have canceled their subscriptions, the cancellation is spread relatively evenly across regions, with slightly more cancellations in the North and West regions
+   
 ## Recommendations
 
-1.
+1.  Since a large portion of cancellations come from the North and West regions, consider targeted retention strategies for these areas. This could include personalized offers, additional support, or incentives to encourage customers to stay
+2.  Conduct customer feedback surveys in these regions to understand the reasons behind the higher cancellation rates and address any common concerns
+3.  To increase revenue from "Premium" and "Standard" subscriptions, consider enhancing the value of these plans. This could involve adding exclusive features, improved support, or loyalty rewards to make these subscriptions more attractive and distinguish them from the "Basic" plan
+4.  Consider creating promotional campaigns that showcase the unique benefits of upgrading to "Premium" or "Standard" for current "Basic" subscribers
+5.  Gathering feedback from existing and former customers can provide insights on what they value most in a subscription. Use this feedback to optimize subscription features, pricing, and customer support
+6.  Use feedback to identify potential pain points that lead to cancellations, especially for "Premium" and "Standard" subscriptions, and make improvements based on these insights
+7.  Offer special discounts, feature upgrades, or time-limited offers to canceled customers to encourage them to resubscribe
+8.  Continuously monitor revenue, customer count, and cancellation metrics across regions and subscription types to quickly identify any changes in trends
+   By implementing these recommendations, you can strengthen customer retention, boost revenue, and create targeted strategies that align with regional preferences and customer behaviors
