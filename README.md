@@ -106,13 +106,13 @@ This high-level analysis suggests potential growth areas by focusing on underper
 7.  Regularly review monthly performance to see if patterns remain consistent year-to-year. Use these insights to refine strategies for the next period
 These recommendations can help maintain steady sales throughout the year, capitalize on peak months, and potentially reduce the impact of seasonal dips
 
+---
 
-
-## Project Title 2: E commerce Customers Analysis
+##  Project Title 2: E commerce customers Analysis
 ---
 [Project Overview](#project-overview)
 
-[DATA SOURCES](#data-sources)
+[DATA SOURCES](#data-sources)  
 
 [Tools Used](#tools-used)
 
@@ -124,10 +124,11 @@ These recommendations can help maintain steady sales throughout the year, capita
 
 [Data Visualization](#data-visualization)
 
-### Project Overview: 
+### Project Overview:
+
 ###Customer Data Analysis by Region and Subscription Type
 
-The primary goal of this project is to analyze customer data across various regions and the subscription types understand customer behavior, tailor marketing strategies, and drive targeted sales efforts. By examining the performances of subscription types within specific regions, we aim to identify factors influencing customer loyalty and renewal rates for each subscription type in different regions,and ensure that customer data is accurate, up-to-date, and complies with privacy regulations to build customer trust and maintain data integrity
+The primary goal of this project is to analyze and use data insights to drive revenue growth and customer retention through targeted and informed business strategies
 ---
 ### DATA SOURCES
 The primary source of Data used here is Customer data.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or any other data respository site.
